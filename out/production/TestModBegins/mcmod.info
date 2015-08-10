@@ -1,0 +1,21 @@
+[
+{
+  "modid": "TestModBegins",
+  "name": "Test Mod Begins",
+  "description": "MasterChima's Test Mod",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "MasterChima"
+  ],
+  "credits": "To Everyone Whom Downloads",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
